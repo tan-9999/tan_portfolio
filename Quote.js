@@ -18,7 +18,7 @@ async function getQuote() {
 }
 
 
-// const API_KEY = 'Gdbj0D9zv0dym8aIt6GoTA==GTXD59zm8tWfyMxO';
+
 
 // const API_URL = 'https://api.api-ninjas.com/v1/quotes'
 
